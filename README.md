@@ -1,16 +1,20 @@
-## Hi there 👋
+# Arjun Goel
 
-<!--
-**arjungoel06/arjungoel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst and Data Analyst based in Dublin. MSc Business Analytics (First Class Honours, University College Cork).
 
-Here are some ideas to get you started:
+I have 4+ years of experience in data reconciliation, system implementation, and analysis across regulated, multi-country environments. 
+I work with financial and payroll data, validate system outputs, and build dashboards that give stakeholders a clear view of programme progress and risk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously at Deloitte Consulting, I supported HR and payroll transformation programmes across more than 10 countries, reconciling thousands of payroll records and reporting findings to client and delivery leadership. 
+
+Currently I work as a Business Analyst supporting a hospital's electronic patient record system implementation, covering data validation, testing, and stakeholder engagement.
+
+## Skills
+- **Data and analytics:** SQL, Python (Pandas, NumPy), Power BI, Tableau, Advanced Excel, Dynamic 365
+- **Data quality:** Reconciliation, validation, root-cause analysis
+- **Delivery:** Requirements gathering, UAT coordination, risk and issue tracking, Jira
+- **Communication:** Presenting findings to non-technical audiences, workshop facilitation
+
+## Contact
+- Email: arjungoelie@gmail.com
+- LinkedIn: [linkedin.com/in/arjun-goel](https://linkedin.com/in/arjun-goel)
